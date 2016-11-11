@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/ScrollView"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" >
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                      android:orientation="vertical"
+                      android:layout_width="match_parent"
+                      android:layout_height="wrap_content">
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lblSNaziv"
+                    android:textSize="20dp"
+                    android:padding="5dp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp" android:layout_gravity="left"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lblSOpis"
+                    android:layout_gravity="left"
+                    android:textSize="20dp"
+                    android:padding="5dp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lblSCena"
+                    android:textSize="20dp"
+                    android:padding="5dp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp" android:layout_gravity="left"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lblSKategorija"
+                    android:textSize="20dp"
+                    android:padding="5dp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp" android:layout_gravity="left"/>
+            <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/imageViewSef"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:contentDescription="@string/contentDescriptionZaSlikuSefa"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lblSBoja"
+                    android:textSize="20dp"
+                    android:padding="5dp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp" android:layout_gravity="left"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lblSBrava"
+                    android:textSize="20dp"
+                    android:padding="5dp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp" android:layout_gravity="left"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lblSuBrava"
+                    android:textSize="20dp"
+                    android:padding="5dp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp" android:layout_gravity="left"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lblSZabravljivanje"
+                    android:textSize="20dp"
+                    android:padding="5dp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp" android:layout_gravity="left"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lblSTip"
+                    android:textSize="20dp"
+                    android:padding="5dp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp" android:layout_gravity="left"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lblSsv"
+                    android:textSize="20dp"
+                    android:padding="5dp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp" android:layout_gravity="left"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lblSss"
+                    android:textSize="20dp"
+                    android:padding="5dp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp" android:layout_gravity="left"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lblSsd"
+                    android:textSize="20dp"
+                    android:padding="5dp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp" android:layout_gravity="left"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lblSuv"
+                    android:textSize="20dp"
+                    android:padding="5dp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp" android:layout_gravity="left"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lblSus"
+                    android:textSize="20dp"
+                    android:padding="5dp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp" android:layout_gravity="left"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lblSud"
+                    android:textSize="20dp"
+                    android:padding="5dp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp" android:layout_gravity="left"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lblSPolice"
+                    android:textSize="20dp"
+                    android:padding="5dp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp" android:layout_gravity="left"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lblSTezina"
+                    android:textSize="20dp"
+                    android:padding="5dp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp" android:layout_gravity="left"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lblSZapremina"
+                    android:textSize="20dp"
+                    android:padding="5dp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp" android:layout_gravity="left"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lblSCreated"
+                    android:textSize="20dp"
+                    android:padding="5dp"
+                    android:textStyle="bold" android:layout_gravity="left"/>
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lblSUpdated"
+                    android:textSize="20dp"
+                    android:padding="5dp"
+                    android:textStyle="bold" android:layout_gravity="left"/>
+            <Button
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/btnEdit"
+                    android:id="@+id/sEdit"
+                    android:textSize="20dp"
+                    android:layout_marginTop="10dp" android:layout_gravity="center"/>
+            <Button
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/btnDelete"
+                    android:id="@+id/sDelete"
+                    android:layout_gravity="center"
+                    android:textSize="20dp"
+                    android:layout_marginTop="20dp"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

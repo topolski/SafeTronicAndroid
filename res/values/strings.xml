@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WSC</string>
+    <string name="headerTitle">SafeTronics Web Service client</string>
+    <string name="footer">Created by Milanko Topolski</string>
+    <string name="lemail">Email:</string>
+    <string name="lpassword">Password:</string>
+    <string name="btnlogin">Log in</string>
+    <string name="btnKategorije">Administriraj kategorije sefova</string>
+    <string name="btnSefovi">Administriraj sefove</string>
+    <string name="lkategorije">Lista kategorija sefova:</string>
+    <string name="labelYes">Da</string>
+    <string name="labelNo">Ne</string>
+    <string name="labelMessageBoxBody">Da li ste sigurni da želite da obrišete ovu kategoriju?</string>
+    <string name="labelMessageBoxTitle">Upozorenje</string>
+    <string name="lblKategorijaNaziv">Naziv kategorije:</string>
+    <string name="btnEdit">Edit</string>
+    <string name="btnSave">Save</string>
+    <string name="btnNovaKategorija">Dodaj novu kategoriju sefova</string>
+    <string name="btnNoviSef">Dodaj novi sef</string>
+    <string name="btnDelete">Delete</string>
+    <string name="lsefovi">Lista sefova:</string>
+    <string name="contentDescriptionZaSlikuSefa">Slika sefa</string>
+    <string name="labelMessageBoxBodyZaSef">Da li ste sigurni da želite da obrišete ovaj sef?</string>
+    <string name="lblNazivSefa">Naziv sefa:</string>
+    <string name="lblOpis">Opis:</string>
+    <string name="lblKategorijaSefa">Kategorija:</string>
+    <string name="lblSlika">Slika:</string>
+    <string name="btnSlika">Dodaj sliku</string>
+    <string name="lblCena">Cena:</string>
+    <string name="lblBoja">Boja:</string>
+    <string name="lblBrava">Brava:</string>
+    <string name="lblUBrava">Unutrašnja brava:</string>
+    <string name="lblZabravljivanje">Zabravljivanje:</string>
+    <string name="lblTip">Tip:</string>
+    <string name="lblSV">Spoljašnja visina:</string>
+    <string name="lblSS">Spoljašnja širina:</string>
+    <string name="lblSD">Spoljašnja dubina:</string>
+    <string name="lblUV">Unutrašnja visina:</string>
+    <string name="lblUS">Unutrašnja širina:</string>
+    <string name="lblUD">Unutrašnja dubina:</string>
+    <string name="lblPolice">Police:</string>
+    <string name="lblTezina">Težina:</string>
+    <string name="lblZapremina">Zapremina:</string>
+    <string name="lListaAktivnosti">Lista aktivnosti:</string>
+</resources>
